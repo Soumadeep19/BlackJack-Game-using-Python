@@ -17,10 +17,10 @@ A simple command-line Blackjack game built using Python.
 
 ## Future improvements:-
 
-Refactor repeated code using functions
-Play Again option
-Betting/chips system
-Improved user interface
+- Refactor repeated code using functions
+- Play Again option
+- Betting/chips system
+- Improved user interface
 
 ## How to Run
 ```bash
